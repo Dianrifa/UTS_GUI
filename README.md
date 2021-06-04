@@ -5,15 +5,12 @@
 ## Tambah Data
 
 https://i.ibb.co/GVD4x8t/1.png
-
 ## Clear Data
 
 https://i.ibb.co/F8sP4tS/2.png
-
 ## Edit Data
 
 https://i.ibb.co/Dk9YhSc/3.png
-
 
 ## 2. Perbaikan Codingan
 
